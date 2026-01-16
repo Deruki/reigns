@@ -1,0 +1,82 @@
+{
+  "XaviSala": {
+    "name": "Xavi Sala",
+    "image": "assets/img/characters/Xavi_test.jpg"
+  },
+  "DaniHerrera": {
+    "name": "Dani Herrera",
+    "image": "assets/img/characters/Herrera_test.png"
+  },
+  "FranGrano": {
+    "name": "Fran Grañó",
+    "image": "assets/img/characters/Fran_test.png"
+  },
+  "JaumePujol": {
+    "name": "Jaume Pujol",
+    "image": "assets/img/characters/jpujol.png"
+  },
+  "AlbertSabria": {
+    "name": "Albert Sabria",
+    "image": "assets/img/characters/asabria.png"
+  },
+  "JuackyRubio": {
+    "name": "Juacky Rubio",
+    "image": "assets/img/characters/Juacky_test.jpg"
+  },
+  "EricFuentes": {
+    "name": "Eric Fuentes",
+    "image": "assets/img/characters/Eric_test.png"
+  },
+  "AlbertIbiza": {
+    "name": "Albert Ibiza",
+    "image": "assets/img/characters/Ibiza_test.png"
+  },
+  "JesusPicornell": {
+    "name": "Jesus Picornell",
+    "image": "assets/img/characters/Jesus_test.png"
+  },
+  "GenisDeTuero": {
+    "name": "Genís De Tuero",
+    "image": "assets/img/characters/Genis_test.jpg"
+  },
+  "RosaCavalle": {
+    "name": "Rosa Cavallé",
+    "image": "assets/img/characters/Test.webp"
+  },
+  "AndreaAndaluz": {
+    "name": "Andrea Andaluz",
+    "image": "assets/img/characters/Andrea_test.jpg"
+  },
+  "CoralPlanaguma": {
+    "name": "Coral Planagumà",
+    "image": "assets/img/characters/Coral_test.jpg"
+  },
+  "IvanMartinez": {
+    "name": "Ivan Martínez",
+    "image": "assets/img/characters/Ivan_test.jpg"
+  },
+  "ManelArrabal": {
+    "name": "Manel Arrabal",
+    "image": "assets/img/characters/Manel_test.jpg"
+  },
+  "XaviVallejo": {
+    "name": "Xavi Vallejo",
+    "image": "assets/img/characters/Vallejo_test.jpg"
+  },
+  "DaniPrados": {
+    "name": "Dani Prados",
+    "image": "assets/img/characters/Prados_test.png"
+  },
+  "SilviaLlado": {
+    "name": "Silvia Lladó",
+    "image": "assets/img/characters/sllado.png"
+  },
+  "Test": {
+    "name": "test name",
+    "image": "assets/img/characters/Test.webp"
+  },
+  "Test2": {
+    "name": "test name 2",
+    "image": "assets/img/characters/Test_Girl.jpg"
+  }
+}

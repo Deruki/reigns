@@ -1,0 +1,320 @@
+
+[
+  {
+    "id": 1,
+    "character": "IvanMartinez",
+    "text": "El sistema informático se ha caido",
+    "left": {
+      "label": "Ves a revisarlo",
+      "effects": {
+        "convivencia": 5,
+        "diners": 10
+      }
+    },
+    "right": {
+      "label": "Contratar a alguien externo",
+      "effects": {
+        "educacio": -5,
+        "convivencia": -5,
+        "diners": -10
+      }
+    }
+  },
+  {
+    "id": 2,
+    "character": "XaviSala",
+    "text": "Las capacitats clau son una basura!",
+    "left": {
+      "label": "Aplicaremos mejoras...",
+      "effects": {
+        "capacitatsClau": -5,
+        "diners": -5
+      }
+    },
+    "right": {
+      "label": "Mentira!",
+      "effects": {
+        "capacitatsClau": 5,
+        "convivencia": -5
+      }
+    }
+  },
+  {
+    "id": 3,
+    "character": "AndreaAndaluz",
+    "text": "El Xavi Sala está cada vez más pirado",
+    "left": {
+      "label": "Ya...",
+      "effects": {
+        "educacio": 10,
+        "diners": -15
+      }
+    },
+    "right": {
+      "label": "Que dices!",
+      "effects": {
+        "educacio": -10,
+        "convivencia": -5
+      }
+    }
+  },
+  {
+    "id": 4,
+    "character": "ManelArrabal",
+    "text": "Las impresoras 3D no funcionan",
+    "left": {
+      "label": "Mandar a arreglarlas",
+      "effects": {
+        "educacio": -10,
+        "diners": 10
+      }
+    },
+    "right": {
+      "label": "Dejarlo pasar",
+      "effects": {
+        "educacio": 5,
+        "convivencia": -10
+      }
+    }
+  },
+  {
+    "id": 5,
+    "character": "CoralPlanaguma",
+    "text": "Estoy siguiendo las normas, pero siento que podrían ser más ligeras...",
+    "left": {
+      "label": "No! Prosigue",
+      "effects": {
+        "capacitatsClau": 10,
+        "convivencia": -5,
+        "educacio": 5
+      }
+    },
+    "right": {
+      "label": "Rebajaremos las Capacitats",
+      "effects": {
+        "capacitatsClau": -10,
+        "convivencia": 5
+      }
+    }
+  },
+  {
+    "id": 6,
+    "character": "XaviVallejo",
+    "text": "Los alumnos se me han quejado de las notas de las capacitats clau...",
+    "left": {
+      "label": "Que se quejen!",
+      "effects": {
+        "capacitatsClau": 10,
+        "convivencia": -10
+      }
+    },
+    "right": {
+      "label": "Intenta inflar la nota...",
+      "effects": {
+        "capacitatsClau": -5,
+        "convivencia": 5
+      }
+    }
+  },
+  
+  {
+    "id": 7,
+    "character": "ManelArrabal",
+    "text": "Media clase de SMX está con el FIFA en vez de avanzar con el proyecto final.",
+    "left": {
+      "label": "¡A trabajar ahora mismo!",
+      "effects": {
+        "educacio": 10,
+        "capacitatsClau": 5,
+        "convivencia": -10
+      }
+    },
+    "right": {
+      "label": "Haced un torneo rápido...",
+      "effects": {
+        "convivencia": 10,
+        "capacitatsClau": -10,
+        "diners": -5
+      }
+    }
+  },
+  {
+    "id": 8,
+    "character": "XaviSala",
+    "text": "Java es una mierda y ya no se usa por aquí. ¡Deberíamos cambiar a C# inmediatamente!",
+    "left": {
+      "label": "Tienes razón, cambiemos",
+      "effects": {
+        "educacio": 10,
+        "diners": -10,
+        "convivencia": 5
+      }
+    },
+    "right": {
+      "label": "¡No! Seguimos con Java",
+      "effects": {
+        "educacio": -15,
+        "capacitatsClau": -5,
+        "convivencia": -10
+      }
+    }
+  },
+  {
+    "id": 9,
+    "character": "GenisDeTuero",
+    "text": "I am teaching how to mount the power supply, güey... ¿Sigo con el 'spanglish' o les explico bien?",
+    "left": {
+      "label": "Keep going, Genís!",
+      "effects": {
+        "educacio": -10,
+        "capacitatsClau": 5
+      }
+    },
+    "right": {
+      "label": "Enséñales de verdad",
+      "effects": {
+        "convivencia": 15,
+        "educacio": 10
+      }
+    }
+  },
+  {
+    "id": 10,
+    "character": "IvanMartinez",
+    "text": "He visto que en DAW pasan de las normas. ¿Les damos un toque o no?",
+    "left": {
+      "label": "Dales un toque",
+      "effects": {
+        "convivencia": -15,
+        "capacitatsClau": 10
+      }
+    },
+    "right": {
+      "label": "Que lo arreglen ellos",
+      "effects": {
+        "convivencia": 10,
+        "educacio": -5
+      }
+    }
+  },
+  {
+    "id": 11,
+    "character": "JuackyRubio",
+    "text": "¡Directora! Las empresas de Figueres me están volviendo loco con los convenios de las FCT. ¿Me das una mano con el papeleo?",
+    "left": {
+      "label": "Te ayudamos con Ivan",
+      "effects": {
+        "diners": -5,
+        "convivencia": 10,
+        "capacitatsClau": 10
+      }
+    },
+    "right": {
+      "label": "Paciencia y saliva",
+      "effects": {
+        "convivencia": -10,
+        "capacitatsClau": -5
+      }
+    }
+  },
+  {
+    "id": 12,
+    "character": "RosaCavalle",
+    "text": "¡Hola, Directora! Te llamo desde... mi retiro espiritual por la baja. He soñado que los alumnos de SMX no saben decir 'Motherboard'. ¿Me paso a verlos o sigo viviendo mi vida?",
+    "left": {
+      "label": "¡Vuelve a trabajar ya!",
+      "effects": {
+        "educacio": 5,
+        "convivencia": -15,
+        "diners": 5
+      }
+    },
+    "right": {
+      "label": "Sigue con tu 'recuperación'",
+      "effects": {
+        "educacio": -10,
+        "convivencia": 5,
+        "diners": -10
+      }
+    }
+  },
+  {
+    "id": 13,
+    "character": "AlbertSabria",
+    "text": "Directora, ha saltado una incidencia grave en el laboratorio 2. Un alumno ha bloqueado la BIOS de tres equipos. ¿Le abro expediente sancionador o que se encargue Albert Ibiza?",
+    "left": {
+      "label": "Expediente directo",
+      "effects": { "convivencia": -10, "educacio": 10, "capacitatsClau": 5 }
+    },
+    "right": {
+      "label": "Que lo vea Ibiza",
+      "effects": { "convivencia": 10, "educacio": -5 }
+    }
+  },
+  {
+    "id": 14,
+    "character": "EricFuentes",
+    "text": "Directora, para el proyecto final necesito licencias de cursos de programación avanzada. Ya me fallasteis con el Erasmus de SMX, no me falléis ahora con DAW.",
+    "left": {
+      "label": "Comprar cursos",
+      "effects": { "diners": -15, "educacio": 15, "capacitatsClau": 10 }
+    },
+    "right": {
+      "label": "Aprende de YouTube",
+      "effects": { "convivencia": -20, "educacio": -5 }
+    }
+  },
+  {
+    "id": 15,
+    "character": "FranGrano",
+    "text": "Estamos con el modelo 303 del IVA y los alumnos están KO. ¿Les meto más fichas de modelo para que practiquen o relajamos mirando un vídeo sobre el tema?",
+    "left": {
+      "label": "Más fichas",
+      "effects": { "educacio": 15, "capacitatsClau": 10, "convivencia": -15 }
+    },
+    "right": {
+      "label": "Ver vídeo",
+      "effects": { "convivencia": 15, "educacio": -10 }
+    }
+  },
+  {
+    "id": 16,
+    "character": "DaniHerrera",
+    "text": "El servidor del 'Programa-me' no está y no avanzamos nada. He pensado en dar caña haciendo cada martes una sesión online desde casa todos. ¿Qué te parece?",
+    "left": {
+      "label": "¡Sesiones extra!",
+      "effects": { "educacio": 15, "capacitatsClau": 10, "convivencia": -20 }
+    },
+    "right": {
+      "label": "Nada, no se hace",
+      "effects": { "educacio": -20, "diners": 5 }
+    }
+  },
+  {
+    "id": 17,
+    "character": "AlbertIbiza",
+    "text": "Tengo pensado poner un episodio de Black Mirror (Shut up and dance) en lugar de configurar el rack... ¿Qué opinas?",
+    "left": {
+      "label": "Me parece bien",
+      "effects": { "convivencia": 15, "educacio": 5, "capacitatsClau": 5 }
+    },
+    "right": {
+      "label": "Ni hablar",
+      "effects": { "convivencia": -10, "educacio": 10 }
+    }
+  },
+  {
+    "id": 18,
+    "character": "JesusPicornell",
+    "text": "Ya tengo las plazas para Estonia y Eslovenia, pero el Eric ya se está quejando otra vez de que tardamos mucho. ¿Tramitamos ya o esperamos?",
+    "left": {
+      "label": "Tramitar ahora",
+      "effects": { "diners": -10, "educacio": 10, "convivencia": 10 }
+    },
+    "right": {
+      "label": "Esperar",
+      "effects": { "convivencia": -20, "educacio": -10 }
+    }
+  }
+
+]
