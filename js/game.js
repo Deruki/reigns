@@ -40,15 +40,15 @@ function setStatIcon(id, maskURL) {
   }
 }
 
-setStatIcon('educacio', 'assets/img/stats/Educacio_Test.png');
-setStatIcon('capacitatsClau', 'assets/img/stats/CapacitatsClau_Test.png');
-setStatIcon('convivencia', 'assets/img/stats/Convivencia_Test.png');
-setStatIcon('diners', 'assets/img/stats/Diners_Test.png');
+setStatIcon('educacio', '/reigns/assets/img/stats/Educacio_Test.png');
+setStatIcon('capacitatsClau', '/reigns/assets/img/stats/CapacitatsClau_Test.png');
+setStatIcon('convivencia', '/reigns/assets/img/stats/Convivencia_Test.png');
+setStatIcon('diners', '/reigns/assets/img/stats/Diners_Test.png');
 
 async function cargarJSON() {
   const [cartesRes, personatgesRes] = await Promise.all([
-    fetch('/data/cartes.json'),
-    fetch('/data/personatges.json')
+    fetch('/reigns/data/cartes.json'),
+    fetch('/reigns/data/personatges.json')
   ]);
   const cartes = await cartesRes.json();
   const personatges = await personatgesRes.json();
