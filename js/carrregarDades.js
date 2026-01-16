@@ -1,6 +1,6 @@
 export async function cargarDatos() {
-  const cartesRes = await fetch('/data/cartes.json');
-  const personatgesRes = await fetch('/data/personatges.json');
+  const cartesRes = await fetch('/reigns/data/cartes.json');
+  const personatgesRes = await fetch('/reigns/data/personatges.json');
 
   const data_cartes = await cartesRes.json();
   const data_personatges = await personatgesRes.json();
